@@ -1,0 +1,4 @@
+/vendor/
+/App/Config/config.xml
+/Web/.htaccess
+.idea
